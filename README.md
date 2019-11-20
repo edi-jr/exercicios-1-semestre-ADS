@@ -1,3 +1,3 @@
-# Some .c stuff
+# Primeiro semestre ADS
 
-some algorithms and exercises in C
+Alguns exercícios em C, meus primeiros passos na faculdade
