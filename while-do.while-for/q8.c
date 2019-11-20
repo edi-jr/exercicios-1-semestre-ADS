@@ -10,4 +10,6 @@ int main() {
     }
     printf("\nSoma dos positivos: %d\n", somaP);
     printf("Quantidade de negativos: %d\n", quantN);
+
+    getch();
 }

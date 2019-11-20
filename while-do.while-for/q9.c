@@ -9,4 +9,6 @@ int main() {
         }
     }
     printf("Soma dos pares: %d\n", somaPares);
+
+    getch();
 }
