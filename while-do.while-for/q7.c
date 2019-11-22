@@ -51,8 +51,8 @@ int main(){
     fflush(stdin);
     gets(busca);
     if (strcmp(busca, titulo1) == 0 || strcmp(busca, autor1) == 0) printf("Livro encontrado.\n");
-    else if (strcmp(busca, titulo2) == 0 | strcmp(busca, autor2) == 0) printf("Livro não encontrado.\n");
-    else if (strcmp(busca, titulo3) == 0 || strcmp(busca, autor3) == 0) printf("Livro não encontrado.\n");
+    else if (strcmp(busca, titulo2) == 0 || strcmp(busca, autor2) == 0) printf("Livro encontrado.\n");
+    else if (strcmp(busca, titulo3) == 0 || strcmp(busca, autor3) == 0) printf("Livro encontrado.\n");
     else printf("Livro nao encontrado.\n");
 
     getch();
